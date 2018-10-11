@@ -45,11 +45,11 @@ console.log(ar.R);
 
 规定参数：
 
-options.T 温度，单位：摄氏度
-options.P 大气压强，单位：毫巴/百帕
-options.apparentH 视地平高度，单位：度
-options.trueH 真地平高度，单位：度
-options.isStrict  是否精确修正（考虑气压、温度影响）
+* options.T 温度，单位：摄氏度
+* options.P 大气压强，单位：毫巴/百帕
+* options.apparentH 视地平高度，单位：度
+* options.trueH 真地平高度，单位：度
+* options.isStrict  是否精确修正（考虑气压、温度影响）
 
 `set apparentH(h0)`
 
